@@ -3,11 +3,12 @@
 public function __construct()
 {
    parent::__construct();
-   //Do your magic here
+   ${1://Do your magic here}
 }
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>construct</tabTrigger>
+   <description>Contructor function</description>
    <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <!-- <scope>source.php</scope> -->
 </snippet>

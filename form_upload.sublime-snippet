@@ -4,6 +4,7 @@ form_upload('${1:name}');
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>form_upload</tabTrigger>
+   <description>CI_Add form upload</description>
    <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <!-- <scope>source.php</scope> -->
 </snippet>

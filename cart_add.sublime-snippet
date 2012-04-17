@@ -12,6 +12,7 @@
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>cart_add</tabTrigger>
+   <description>CI_Add cart data</description>
    <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <!-- <scope>source.php</scope> -->
 </snippet>

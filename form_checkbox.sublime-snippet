@@ -4,6 +4,7 @@ form_checkbox(${1:name}, ${2:value}, TRUE);
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>form_checkbox</tabTrigger>
+   <description>CI_Add form checkbox</description>
    <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <!-- <scope>source.php</scope> -->
 </snippet>

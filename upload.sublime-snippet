@@ -18,6 +18,7 @@ else{
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>upload</tabTrigger>
+   <description>CI_Load upload lib</description>
    <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <!-- <scope>source.php</scope> -->
 </snippet>

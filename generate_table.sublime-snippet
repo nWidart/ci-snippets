@@ -13,6 +13,7 @@ echo \$this->table->generate(\$data);
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>generate_table</tabTrigger>
+   <description>CI_Load Gen table</description>
    <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <!-- <scope>source.python</scope> -->
 </snippet>

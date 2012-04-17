@@ -4,6 +4,7 @@ form_hidden('${1:name}', '${2:value}');
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>form_hidden</tabTrigger>
+   <description>CI_Add form hidden</description>
    <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <!-- <scope>source.python</scope> -->
 </snippet>

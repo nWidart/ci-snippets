@@ -30,6 +30,7 @@ echo \$this->pagination->create_links();
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>pagination</tabTrigger>
+   <description>CI_Load Create pagination</description>
    <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <!-- <scope>source.php</scope> -->
 </snippet>

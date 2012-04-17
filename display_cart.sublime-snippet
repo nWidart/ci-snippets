@@ -1,6 +1,6 @@
 <snippet>
    <content><![CDATA[
-<?php echo form_open('path/to/controller/update/function'); ?>
+<?php echo form_open('${1:path/to/controller/update/function}'); ?>
 
 <table cellpadding="6" cellspacing="1" style="width:100%" border="0">
 
@@ -55,6 +55,7 @@
 ]]></content>
    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
    <tabTrigger>display_cart</tabTrigger>
+   <description>CI_Display a cart</description>
    <!-- Optional: Set a scope to limit where the snippet will trigger -->
    <!--<scope>source.php</scope> -->
 </snippet>
