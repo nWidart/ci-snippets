@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+redirect('${1:page}')
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ci_redirect</tabTrigger>
+	<description>CI_Redirect helper func</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
