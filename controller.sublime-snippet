@@ -7,13 +7,13 @@ class ${1:Index} extends CI_Controller {
 
 	public function index()
 	{
-		\$this->load->view('${2:index}');
+		\$this->load->view('${2:Index}');
 	}
 	$0
 }
 
-/* End of file ${3:index}.php */
-/* Location: ./application/controllers/${4:index}.php */
+/* End of file ${1:Index}.php */
+/* Location: ./application/controllers/${1:Index}.php */
 ?>
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
