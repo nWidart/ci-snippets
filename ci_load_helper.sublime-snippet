@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$this->load->helper('${1:variable}');]]></content>
+    <tabTrigger>ci_load</tabTrigger>
+    <scope>source.php</scope>
+    <description>Load Helper</description>
+</snippet>
