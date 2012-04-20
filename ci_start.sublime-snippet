@@ -3,7 +3,7 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 /* End of file ${1:filename}.php */
-/* Location: ./application/${2:folder}/${3:filename}.php */
+/* Location: ./application/${2:folder}/${1:filename}.php */
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>ci_start</tabTrigger>
