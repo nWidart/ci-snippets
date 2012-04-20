@@ -10,8 +10,7 @@ If you have the [Package Control][package_control] package installed, you can in
 
 If you haven't got Package Control installed you will need to make a clone of this repository into your packages folder, like so:
 
-    git clone git@github.com:nWidart/ci-snippets.git ci-snippets
-
+    git clone https://github.com/mpmont/ci-snippets.git ci-snippets
 
 [sublime]: http://www.sublimetext.com/
 [package_control]: http://wbond.net/sublime_packages/package_control
